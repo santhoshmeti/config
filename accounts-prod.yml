@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related local prod APIs "
+  message: "Welcome to EazyBank accounts related local production APIs "
   contactDetails:
     name: "abi Doe - Developer"
     email: "abi@eazybank.com"
